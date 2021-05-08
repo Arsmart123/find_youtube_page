@@ -1,5 +1,11 @@
 # find_youtube_page
 
+
+**To run these codes, you need to download "BlueJ" and double click the "blueJ" file I have uploaded.The relevant link is: https://www.dukelearntoprogram.com//downloads/bluej.php?course=2 **
+
+
+
+
 Write a program that reads the lines from the file at this URL location, http://www.dukelearntoprogram.com/course2/data/manylinks.html, and prints each URL on the page that is a link to youtube.com. Assume that a link to youtube.com has no spaces in it and would be in the format (where [stuff] represents characters that are not verbatim): “http:[stuff]youtube.com[stuff]”
 
 Here are suggestions to get started.
